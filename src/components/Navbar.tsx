@@ -14,7 +14,7 @@ export default function Navbar() {
             </div>
             <div className="w-32 h-8 rounded overflow-hidden bg-white/5 border border-white/10 flex-shrink-0">
               <img
-                src="/images/achimwene.png"
+                src="/images/"
                 alt="Achimwene Neat Construction Group"
                 className="w-full h-full object-contain"
                 onError={(e) => {
