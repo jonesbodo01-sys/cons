@@ -27,7 +27,7 @@ export default function Footer() {
               <div className="w-32 h-8 rounded overflow-hidden bg-white/5 border border-white/10 flex-shrink-0">
                 <img
                   src="/images/"
-                  alt="Neat Construction Group"
+                  alt=""
                   className="w-full h-full object-contain"
                   onError={(e) => {
                     const el = e.currentTarget as HTMLImageElement;
