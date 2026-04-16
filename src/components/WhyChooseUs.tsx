@@ -26,7 +26,7 @@ const features = [
       'Your satisfaction drives us. We work closely with clients from planning through completion to ensure expectations are exceeded.',
   },
   {
-    image: '/images/i4.png.jpg',
+    image: '/images/i4.png',
     title: 'Inspection Utilities',
     description:
       'Rigorous quality checks and structured inspections are integrated throughout every phase of the construction process.',
