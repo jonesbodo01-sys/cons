@@ -4,7 +4,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-16 sm:h-18">
           <div className="flex items-center gap-2 flex-shrink-0">
-            <div className="w-10 h-10 rounded-lg overflow-hidden bg-red-700/30 border border-red-700/40 flex-shrink-0">
+            <div className="w-10 h-10 rounded-lg overflow-hidden bg-red-700/30 border border-red-0/0 flex-shrink-0">
               <img
                 src="/images/achimwene.png"
                 alt="Logo Icon"
